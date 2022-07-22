@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gtmassey
-  I'm a web developer and programmer finally starting to post things to a public github portfolio!
+  I'm a PHP web developer and programmer finally starting to post things to a public github portfolio!
   
 - 👀 I’m interested in PHP/Laravel Development, Vue, and full-stack web development
 - 🌱 I’m currently learning Java (as a part of continuing education) and Vue3 + Inertia
